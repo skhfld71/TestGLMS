@@ -14,7 +14,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "/Users/fixgames01/Documents/GDevelop projects/My project14/game.json",
+    "projectFile": "/Users/fixgames01/Documents/GDevelop projects/TestGLMS/game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -144,8 +144,8 @@
           "locked": false,
           "name": "NewObject",
           "width": 0,
-          "x": 896,
-          "y": 525,
+          "x": 874,
+          "y": 524,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -178,7 +178,7 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::JsCode",
-          "inlineCode": "runtimeScene.setBackgroundColor(255,255,255);\n",
+          "inlineCode": "runtimeScene.setBackgroundColor(255,255,25);\n",
           "parameterObjects": "",
           "useStrict": true
         }
