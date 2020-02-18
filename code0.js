@@ -5,7 +5,7 @@ gdjs.SettingsCode.conditionTrue_0 = {val:false};
 gdjs.SettingsCode.condition0IsTrue_0 = {val:false};
 
 
-gdjs.SettingsCode.userFunc0x692bb8 = function(runtimeScene) {
+gdjs.SettingsCode.userFunc0x67f200 = function(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(255,255,25);
 
@@ -15,7 +15,7 @@ gdjs.SettingsCode.eventsList0xb4be0 = function(runtimeScene) {
 {
 
 
-gdjs.SettingsCode.userFunc0x692bb8(runtimeScene);
+gdjs.SettingsCode.userFunc0x67f200(runtimeScene);
 
 }
 
